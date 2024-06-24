@@ -97,6 +97,7 @@
 <a href="https://www.facebook.com/chunghp3006/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/facebook-2752192-2285009.png" alt="facebook" height="50" width="50" /></a>
 </p>
 
+<img src="https://i.imgur.com/7zK4tAs.png">
 
 <!--profile visit count-->
 <div align="center">
@@ -104,9 +105,6 @@
 [![](https://visitcount.itsvg.in/api?id=hvchunghp&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://i.imgur.com/7zK4tAs.png">
 
 ----------------------------------------------------------------------
 Credit: [hvchunghp](https://github.com/hvchunghp)
