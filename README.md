@@ -104,9 +104,6 @@
 [![](https://visitcount.itsvg.in/api?id=hvchunghp&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-<p align="center">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://i.imgur.com/7zK4tAs.png">
