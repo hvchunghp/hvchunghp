@@ -26,19 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Vuejs, Nodejs, MongoDB, POSTGRESQL**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Go.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://hvchunghp.hashnode.dev/)
+- 💬 Ask me about **Vuejs, Nodejs, MongoDB, POSTGRESQL**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [hvchunghp](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Feel free to reach me out **chunghp3006@gmail.com**
 <!--Intro end-->
 
 
