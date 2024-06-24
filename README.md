@@ -54,7 +54,7 @@
 <td width="50%" align="center">
 
   <!--- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hvchunghp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> --->
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<img align="center" height="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </td>
 </tr>
 </table>
