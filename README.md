@@ -21,13 +21,13 @@
 
 **<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me**
 
-- 🔭 I’m currently working on **Vuejs, Nodejs, MongoDB, POSTGRESQL**
+- 🔭 I’m currently working on **Vuejs, Nodejs, MongoDB, Postgresql**
 
 - 🌱 I’m currently learning **Go.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **Vuejs, Nodejs, MongoDB, POSTGRESQL**
+- 💬 Ask me about **Vuejs, Nodejs, MongoDB, Postgresql, Go**
 
 - 📫 Feel free to reach me out **chunghp3006@gmail.com**
   
