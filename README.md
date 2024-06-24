@@ -78,6 +78,8 @@
   </a>
 </p>
 
+<img src="https://i.imgur.com/7zK4tAs.png">
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -93,8 +95,6 @@
 <a href="https://www.instagram.com/chunghv3006/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/chunghp3006/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/facebook-2752192-2285009.png" alt="facebook" height="50" width="50" /></a>
 </p>
-
-<img src="https://i.imgur.com/7zK4tAs.png">
 
 <!--profile visit count-->
 <div align="center">
