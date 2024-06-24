@@ -9,12 +9,13 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br/>
+<br/>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 <!--Intro start-->
@@ -33,7 +34,8 @@
   
 <!--Intro end-->
 
-
+<br/>
+<br/>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -55,9 +57,16 @@
 </tr>
 </table>
 
+<br/>
+<br/>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=hvchunghp&theme=react-dark&hide_border=true&area=true)
 
-</p>        
+</p>
+
+<br/>
+<br/>
+
 <!--- stats (end) -->
 <!--- trophy (start) -->
 <div align=center>
@@ -66,6 +75,9 @@
     </a>
 </div>
 <!--- trophy (start) -->
+
+<br/>
+<br/>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -80,8 +92,13 @@
   </a>
 </p>
 
+<br/>
+<br/>
+
 <img src="https://i.imgur.com/7zK4tAs.png">
 
+<br/>
+<br/>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
