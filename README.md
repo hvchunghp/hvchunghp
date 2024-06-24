@@ -9,11 +9,6 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <br/>
 <br/>
 
@@ -96,6 +91,15 @@
 <br/>
 
 <img src="https://i.imgur.com/7zK4tAs.png">
+
+<br/>
+<br/>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br/>
 <br/>
