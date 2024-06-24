@@ -101,8 +101,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/chung-hoàng-17230026a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/chunghv3006/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/chung-hoàng-17230026a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/chunghv3006/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/chunghp3006/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png" alt="facebook" height="50" width="50" /></a>
 </p>
 
